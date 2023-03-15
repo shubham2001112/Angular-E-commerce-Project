@@ -1,0 +1,135 @@
+{
+  "seller": [
+    {
+      "name": "shubham",
+      "email": "sg@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "ishita",
+      "email": "sj@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "akshat",
+      "email": "as@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "vikram",
+      "email": "vm@gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "jay",
+      "email": "ja@gmail.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "password": "c",
+      "id": 6
+    },
+    {
+      "name": "c",
+      "email": "d",
+      "password": "d",
+      "id": 7
+    },
+    {
+      "name": "x",
+      "email": "y",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "abc",
+      "email": "shubhampramel@gmail.com",
+      "password": "adad",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "email": "xyz",
+      "password": "efv",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "email": "a",
+      "password": "v",
+      "id": 12
+    },
+    {
+      "name": "Shubham Gupta",
+      "email": "shubhampramel@gmail.com",
+      "password": "a",
+      "id": 13
+    },
+    {
+      "name": "Aptitude Assessment",
+      "email": "shubham.gupta2019@vitstudent.ac.in",
+      "password": "sg",
+      "id": 14
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "password": "c",
+      "id": 15
+    },
+    {
+      "name": "abc",
+      "email": "vm1@gmail.com",
+      "password": "a",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 20
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "aaaa",
+      "id": 21
+    },
+    {
+      "name": "aaaaa",
+      "email": "aaaaa",
+      "password": "aaaa",
+      "id": 22
+    }
+  ]
+}

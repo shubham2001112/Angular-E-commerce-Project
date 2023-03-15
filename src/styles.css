@@ -1,1 +1,47 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.common-form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+
+.form-input {
+    height: 30px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 1px solid darkblue;
+    color: darkblue;
+}
+
+.form-button {
+    font-family:fantasy;
+    border: 2px solid red;
+    color: red;
+    height: 30px;
+    width: 70px;
+    margin: auto;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.label {
+    font-size: large;
+    font-family:fantasy;
+    color: darkblue;
+}
+
+.signup h2{
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+}

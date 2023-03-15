@@ -1,0 +1,30 @@
+<!-- nav bar -->
+
+<hr />
+<nav class="nav navbar-expand-lg navbar-light bg-light">
+  <hr />
+  <h1><a routerLink="/">SHUBHAMS</a></h1>
+  <hr />
+  <div *ngIf="menuType==='default'" class="nav-search">
+    <input type="search" placeholder="Search products" />
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
+      Search
+    </button>
+  </div>
+  <hr />
+  <div [ngSwitch]="menuType">
+    <ul *ngSwitchCase="'default'">
+    <li><a routerLink='/' >Home</a></li>
+    <li><a routerLink='/seller-auth'  >Seller</a></li>
+    <li><a class="navbar-brand" href="#">Login</a></li>
+    <li><a class="navbar-brand" href="#">Cart(0)</a></li>
+  </ul>
+  <ul *ngSwitchCase="'seller'">
+    <li><a routerLink='/' >Product List</a></li>
+    <li><a routerLink='/seller-auth'  >Add Product</a></li>
+    <li><a class="navbar-brand" href="#">Logout</a></li>
+    <li><a class="navbar-brand" href="#">Seller Name</a></li>
+  </ul>
+</div>
+</nav>
+<hr/>
